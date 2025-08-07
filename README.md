@@ -51,7 +51,7 @@ USERNAME_APP=nome_do_bot
 CHANNEL_NAME=nome_do_canal
 ```
 
-> O `ACCESS_TOKEN` pode ser gerado em: https://twitchapps.com/tmi/
+> O `ACCESS_TOKEN` pode ser gerado em: https://twitchtokengenerator.com/
 
 ## Execução
 
