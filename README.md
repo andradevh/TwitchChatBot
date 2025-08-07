@@ -23,7 +23,7 @@ TwitchBOT/
 │
 ├── .env                # Arquivo de configuração (não deve ser enviado ao Git)
 ├── package.json
-└── principal.js        # Arquivo principal que inicia o bot
+└── index.js        # Arquivo principal que inicia o bot
 ```
 
 ## Instalação
@@ -58,7 +58,7 @@ CHANNEL_NAME=nome_do_canal
 Para iniciar o bot, execute:
 
 ```bash
-node principal.js
+node index.js
 ```
 
 Se tudo estiver correto, o bot se conectará ao canal especificado e começará a responder aos comandos definidos na pasta `commands`.
